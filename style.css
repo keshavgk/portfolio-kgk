@@ -164,9 +164,7 @@ section{
     gap: 5rem;
     height: 80vh;
 }
-.keshav-profile{
-  border-radius: 50%;
-}
+
 
 .section__pic-container {
     display: flex;
@@ -411,6 +409,7 @@ footer p{
   text-align: center;
 
 }
+
 
 
 
