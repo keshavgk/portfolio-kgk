@@ -164,7 +164,7 @@ section{
     gap: 5rem;
     height: 80vh;
 }
-keshav-profile{
+.keshav-profile{
   border-radius: 50%;
 }
 
@@ -411,6 +411,7 @@ footer p{
   text-align: center;
 
 }
+
 
 
 
